@@ -1,2 +1,2 @@
-# Console_ToDo_Uygulamas-
+# Console_ToDo_Uygulaması-
 Kodluyoruz Eğitimi ikinciproje
